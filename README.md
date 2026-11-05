@@ -4,3 +4,4 @@ RALLY.MP IS STILL IN BETA TESTING THIS IS A MP RALLY SIMULATOR FOR BEAM.NG DRIVE
 
                                                                                                                                            
               
+<img width="612" height="200" alt="image" src="https://github.com/user-attachments/assets/d3faa19b-03d3-4b41-84c9-4c8f9541d179" />
